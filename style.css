@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #A0D8B3;
+}
+
+.main{
+    text-align: center;
+    margin-top: 15vw;
+}
+
+#Input{
+    height: 8vh;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    border: none;
+}
+
+#button{
+    margin-top: 3vw;
+    width: 8vw;
+    height: 6vh;
+    color: #fff;
+    background-color: #A2A378;
+    border: none;
+    border-radius: 10px;
+}
+
+#button:hover{
+    background-color: #000;
+}
+
+.msg{
+    font-size: 1.5rem;
+    background-color: #000;
+    color: #fff;
+    width: 25vw;
+    height: 8vh;
+    margin-left: 38vw;
+    margin-bottom: 2vw;
+
+}
